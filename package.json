@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Server for Wikifeet Trivia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahunt2/trivia-backend.git"
+  },
+  "author": "Andrew Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahunt2/trivia-backend/issues"
+  },
+  "homepage": "https://github.com/ahunt2/trivia-backend#readme"
+}
